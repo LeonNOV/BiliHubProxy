@@ -1,0 +1,13 @@
+{
+    "proxy": {
+        "url": "https://api.bilihub.fun/bilihub"
+    },
+
+    "version": {
+        "versionCode": 61,
+        "versionName": "4.2.8",
+        "desc": null,
+        "apk": "https://gitee.com/leon_xf/bili-hub/releases/download/v4.2.8/app-gitee-release.apk",
+        "apkList": ""
+    }
+}
