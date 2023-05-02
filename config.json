@@ -1,6 +1,6 @@
 {
     "proxy": {
-        "url": "https://api.bilihub.fun/bilihub"
+        "url": "https://api.bilihub.fun/bilihub/"
     },
 
     "version": {
